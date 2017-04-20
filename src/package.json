@@ -1,19 +1,23 @@
 {
-  "name": "test alexa skill",
+  "name": "domain search alexa skill",
   "version": "1.0.0",
-  "description": "An Alexa skill",
+  "description": "An Alexa skill to help search and suggest available domain names.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "Alexa",
-    "Skill"
+    "Skill",
+    "Domain",
+    "Search",
+    "Suggest"
   ],
   "author": "Caleb Naess (naesscaleb@gmail.com)",
   "license": "ISC",
   "dependencies": {
     "alexa-sdk": "^1.0.8",
+    "dotenv": "^4.0.0",
     "unirest": "^0.5.1"
   }
 }

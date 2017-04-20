@@ -1,3 +1,12 @@
-TestIntent test
-TestIntent say test
-TestIntent say test hello
+DomainIntent is {Domain} available
+DomainIntent is the domain {Domain} available
+DomainIntent is the website name {Domain} available
+DomainIntent is the URL {Domain} available
+DomainIntent is {Domain} taken
+DomainIntent is the domain {Domain} taken
+DomainIntent is the website name {Domain} taken
+DomainIntent is the URL {Domain} taken
+DomainIntent is {Domain} registered
+DomainIntent is the domain {Domain} registered
+DomainIntent is the website name {Domain} registered
+DomainIntent is the URL {Domain} registered
